@@ -45,6 +45,4 @@ The **Football Player Database System** is a simple console-based application de
 The **Football Player Database System** provides a simple yet effective way to manage a list of football players and their statistics. It serves as an excellent project for learning basic data management and file handling in C.
 
 
-## License 📄
 
-This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
