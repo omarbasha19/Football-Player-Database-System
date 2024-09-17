@@ -34,12 +34,6 @@ The **Football Player Database System** is a simple console-based application de
 
 - **C Programming Language**: Core implementation of the database system and player management functionalities.
 
-## Future Enhancements 🚧
-
-- **Advanced Search Options**: Add more search filters, such as nationality, age, and club.
-- **Data Persistence**: Save player data to a file and load it upon program startup.
-- **Graphical User Interface (GUI)**: Develop a GUI version for easier interaction and better user experience.
-
 ## Conclusion 📝
 
 The **Football Player Database System** provides a simple yet effective way to manage a list of football players and their statistics. It serves as an excellent project for learning basic data management and file handling in C.
