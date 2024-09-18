@@ -1,17 +1,17 @@
 # Football Player Database System ⚽
 
-## Overview 🌐
+## Overview 
 
 The **Football Player Database System** is a simple console-based application designed to manage a database of football players. This project allows users to add, search, and display player information efficiently. It is implemented using the C programming language and provides a user-friendly interface for managing data about football players.
 
-## Features ✨
+## Features 
 
 - **Add New Player**: Users can add a new football player to the database, including details such as name, nationality, age, position, current club, goals scored, and t-shirt number.
 - **Search Player by Name**: Users can search for a player by their name to view detailed information about them.
 - **Display All Players**: View a list of all players currently in the database, along with their details.
 - **User-Friendly Console Interface**: Simple text-based menu to navigate through different functionalities.
 
-## How It Works 🕹️
+## How It Works 
 
 1. **Run the Program**: Launch the application from a terminal or command prompt.
 2. **Choose an Operation**: Select from the menu options to add a new player, search for an existing player by name, display all players, or exit the program.
@@ -34,7 +34,7 @@ The **Football Player Database System** is a simple console-based application de
 
 - **C Programming Language**: Core implementation of the database system and player management functionalities.
 
-## Conclusion 📝
+## Conclusion 
 
 The **Football Player Database System** provides a simple yet effective way to manage a list of football players and their statistics. It serves as an excellent project for learning basic data management and file handling in C.
 
