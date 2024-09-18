@@ -19,7 +19,7 @@ The **Football Player Database System** is a simple console-based application de
 4. **Search for a Player**: Enter the name of the player you want to search for, and the program will display their details if found.
 5. **Display All Players**: View a list of all players currently in the database.
 
-## Example Usage 🚀
+## Example Usage 
 
 1. **Adding a Player**:  
    Input player details, such as "Lionel Messi," "Argentina," "34," "Forward," "Paris Saint-Germain," "700," and "10." The player will be added to the database.
